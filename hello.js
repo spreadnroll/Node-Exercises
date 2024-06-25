@@ -1,0 +1,1 @@
+console.log(`Ciao, sono io, ${process.env.USER}!`)
